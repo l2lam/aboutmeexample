@@ -1,6 +1,16 @@
 # aboutmeexample
 Example project to practice Markdown
 
+## Example of code snippets
+Here is an inline piece of code using backticks `var x = 45;` <--- see?
+
+Here's a multi-line code block
+```python
+def main() {
+ // something to do here later
+}
+```
+
 Text
 
 # this is a heading
